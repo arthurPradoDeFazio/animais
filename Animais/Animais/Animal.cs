@@ -7,8 +7,8 @@ namespace Animais
 		public DateTime DataDeNascimento { get; init; }
 		public char Sexo { get; init; }
 		public int Idade { get; private set; }
-		public bool Carnivoro { get; init; }
-		public bool Peconhento { get; init; }
+		public abstract bool Carnivoro { get; init; }
+		public abstract bool Peconhento { get; init; }
 
 		public abstract void Movimentar();
 		public abstract void Comunicar();

@@ -5,9 +5,14 @@ namespace Animais
 	{
 		public int QuantidadeDeMamas { get; init; }
 		public bool Pelos { get; init; }
-		public string CorDoPelo { get; init; }
+		public abstract string CorDoPelo { get; init; }
 
-		public abstract void Amamentar();
+		public void Amamentar()
+		{
+			if (Sexo == 'M')
+				throw new ArgumentException("Macho não amamenta");
+			Console.WriteLine("Amamentando");
+		}
 	}
 }
 

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Animais
 {
-	public class Leao : Mamifero
+	public class Chacal : Mamifero
 	{
         public override string CorDoPelo { get; init; } = "Amarelo";
         public override bool Carnivoro { get; init; } = true;
@@ -9,17 +9,17 @@ namespace Animais
 
         public override void Alimentar()
         {
-            Console.WriteLine("Leao comendo");
+            Console.WriteLine("Chacal comendo");
         }
 
         public override void Comunicar()
         {
-            Console.WriteLine("Leao rugindo");
+            Console.WriteLine("Chacal se comunicando");
         }
 
         public override void Movimentar()
         {
-            Console.WriteLine("Leao movimentando");
+            Console.WriteLine("Chacal movimentando");
         }
     }
 }
