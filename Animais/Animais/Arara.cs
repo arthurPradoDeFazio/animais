@@ -1,8 +1,9 @@
 ﻿using System;
 namespace Animais
 {
-    public class Cisne : Ave, IOviparo, IVoar
-    {
+	public class Arara : Ave, IVoar
+	{
+		
         public int AltitudeMaximaEmMetros { get; init; }
         public double VelocidadeDeVoo { get; set; }
         public override bool Carnivoro { get; init; } = false;
@@ -10,32 +11,34 @@ namespace Animais
 
         public override void Alimentar()
         {
-            Console.WriteLine("Cisne comendo");
+            Console.WriteLine("Arara comendo");
         }
 
         public override void Chocar()
         {
-            Console.WriteLine("Cisne chocando ovo");
+            if (Sexo == 'M')
+                throw new ArgumentException("Macho não choca ovo");
+            Console.WriteLine("Arara chocando ovo");
         }
 
         public override void Ciscar()
         {
-            Console.WriteLine("Cisne ciscando");
+            throw new ArgumentException("Arara não cisca");
         }
 
         public override void Comunicar()
         {
-            Console.WriteLine("Cisne se comunicando");
+            Console.WriteLine("Arara se comunicando");
         }
 
         public override void Movimentar()
         {
-            Console.WriteLine("Cisne se movimentando");
+            Console.WriteLine("Arara se comunicando");
         }
 
         public void Voar()
         {
-            Console.WriteLine("Cisne voando");
+            throw new NotImplementedException();
         }
     }
 }

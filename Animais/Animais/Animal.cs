@@ -5,7 +5,7 @@ namespace Animais
 	{
 		public string Nome { get; init; }
 		public DateTime DataDeNascimento { get; init; }
-		public char Sexo { get; init; }
+		public char Sexo { get; private set; }
 		public int Idade { get; private set; }
 		public abstract bool Carnivoro { get; init; }
 		public abstract bool Peconhento { get; init; }

@@ -1,0 +1,15 @@
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/bin/Debug/net6.0/Animais
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/bin/Debug/net6.0/Animais.deps.json
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/bin/Debug/net6.0/Animais.runtimeconfig.json
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/bin/Debug/net6.0/Animais.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/bin/Debug/net6.0/Animais.pdb
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.csproj.AssemblyReference.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.AssemblyInfoInputs.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.AssemblyInfo.cs
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.csproj.CoreCompileInputs.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/refint/Animais.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.pdb
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/Animais.genruntimeconfig.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/animais/Animais/Animais/obj/Debug/net6.0/ref/Animais.dll

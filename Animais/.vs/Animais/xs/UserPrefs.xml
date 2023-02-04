@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{FF1249F1-FA0E-4205-A687-2FBC1B7284DE}|Default">
-  <MonoDevelop.Ide.ItemProperties.Animais FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Animais PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animais/Pinguim.cs">
+    <Files>
+      <File FileName="Animais/Reptil.cs" Line="12" Column="10" />
+      <File FileName="Animais/Mamifero.cs" Line="1" Column="1" />
+      <File FileName="Animais/Ornitorrinco.cs" Line="41" Column="60" />
+      <File FileName="Animais/Leao.cs" Line="1" Column="1" />
+      <File FileName="Animais/Animal.cs" Line="8" Column="38" />
+      <File FileName="Animais/DragaoDeComodo.cs" Line="12" Column="1" />
+      <File FileName="Animais/Pinguim.cs" Line="9" Column="1" />
+      <File FileName="Animais/Ave.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Animais" expanded="True">
+            <Node name="Animais" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Ave.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
